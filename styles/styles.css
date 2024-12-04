@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color: rgb(180, 214, 226);
+}
+a {
+    color: maroon;
+}
+a:hover{color: blue;}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+    
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
+.pagesbg{
+    background-image: url('../images/pageant.png');
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+.bold{
+    font-weight: bolder;
+}
